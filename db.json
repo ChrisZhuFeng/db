@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "name": "朱峰",
+      "phone": "13915534171",
+      "email": "13915534171@163.com",
+      "education": "本科",
+      "graduationschool": "苏科大",
+      "profession": "前端",
+      "profile": "你好，我是一个好人哦",
+      "id": 5
+    },
+    {
+      "name": "陈科",
+      "phone": "13113113131",
+      "email": "1231312312@163.com",
+      "education": "本科",
+      "graduationschool": "未知",
+      "profession": "开发",
+      "profile": "哈哈哈，我一个坏人1",
+      "id": 6
+    },
+    {
+      "name": "张天仁",
+      "phone": "13342322341",
+      "email": "q24312412@qq.com",
+      "id": 7
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good!"
+    },
+    {
+      "id": 2,
+      "name": "Google",
+      "description": "Google is good!"
+    },
+    {
+      "id": 3,
+      "name": "Microsoft",
+      "description": "Microsoft is good!"
+    }
+  ]
+}
